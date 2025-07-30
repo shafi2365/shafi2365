@@ -60,8 +60,7 @@
 
 - 📧 Email: **mohdshafi2373@gmail.com**
 - 💼 LinkedIn: [Mohammad Shafi Ganie](https://www.linkedin.com/in/mohammad-shafi-ganie-bb318b2bb)
-- 🌍 Portfolio Website: *(Coming Soon — I can help build it if you'd like!)*
-
+  
 ---
 
 > _"Building tomorrow's intelligence with today's data."_  
